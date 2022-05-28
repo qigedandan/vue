@@ -1,9 +1,6 @@
 # my first vue project 中文
 
-## Project setup
-```
-npm install
-```
+## 我饿了,还磕了
 
 ### Compiles and hot-reloads for development
 ```
